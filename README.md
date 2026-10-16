@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- on a Textadventure Game with SFML<br>[You can play it here!](https://github.com/Paschkii/textadventure/releases/tag/v1.0.0)<br>🌱 I’m currently learning<br>- how to code (in general)<br>- Javascript and C++<br>⚡ Fun fact:<br>- I've had IT as an elective subject in school, but ended up working in gastronomy for 14+ years.<br>
+🔭 I’m currently working on:<br>- on a Textadventure Game with SFML<br>[You can play it here!](https://github.com/Paschkii/textadventure/releases/tag/v1.0.0)<br>🌱 I’m currently learning<br>- how to code (in general)<br>- Javascript and C++<br>⚡ Fun fact:<br>- I've had IT as an elective subject in school, but ended up working in gastronomy for 15+ years.<br>
 
 
 ## 🌐 Socials:
